@@ -1,0 +1,8 @@
+cd desktop
+git clone
+cd dat5-Homework
+ls
+git add -A
+ls -a
+git commit - m
+git push origin master
